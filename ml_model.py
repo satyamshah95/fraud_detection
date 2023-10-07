@@ -7,4 +7,7 @@ def model2():
     print ("ml code2")
 
 def model3():
-    print ("ml code3")
+    print ("ml code3")  
+
+
+print ('model2 is best')
